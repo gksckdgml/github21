@@ -1,0 +1,10 @@
+package github;
+
+public class helloGit {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("¹Ý°©½À´Ï´Ù.");
+	}
+ 
+}
